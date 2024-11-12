@@ -25,11 +25,9 @@ This is only for fun part if you want to learn with me Please let me know.
 
 
 
-
-
-Yes, I can help you set up a virtual environment and create an interface for interacting with the model. Here's how you can approach both:
-
 ### 1. **Setting Up a Virtual Environment**:
+
+
 To keep your dependencies isolated and the environment clean, you can create a virtual environment in Python. Here’s how:
 
 #### Steps to Create a Virtual Environment:
