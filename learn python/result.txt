@@ -1,0 +1,3 @@
+i: 101, predicted value: 46.0595918367347
+i: 103, predicted value: 46.10741896758704
+i: 105, predicted value: 46.15524609843938
