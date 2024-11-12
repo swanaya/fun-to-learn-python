@@ -235,4 +235,3 @@ To run the Flask app:
 
 ---
 
-Would you prefer to use a **desktop GUI** (like `Tkinter`) or a **web interface** (like `Flask`)? Let me know which direction you'd like to go, and I can assist further!
