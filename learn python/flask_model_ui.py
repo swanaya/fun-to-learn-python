@@ -4,6 +4,7 @@ from flask import Flask, request, render_template
 import pickle
 import numpy as np
 
+
 app = Flask(__name__)
 
 # Load the model (replace with your own model path)
